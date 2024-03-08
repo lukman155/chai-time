@@ -1,0 +1,23 @@
+{
+  "name": "chai-time",
+  "version": "1.0.0",
+  "description": "This packages displays magic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukman155/chai-time.git"
+  },
+  "keywords": [
+    "magic",
+    "chai"
+  ],
+  "author": "Lukman Abdulkarim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukman155/chai-time/issues"
+  },
+  "homepage": "https://github.com/lukman155/chai-time#readme"
+}
